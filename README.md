@@ -29,5 +29,4 @@ This project helps users manage daily tasks efficiently and demonstrates full-st
 
 ---
 
-## 📁 Project Structure
 
